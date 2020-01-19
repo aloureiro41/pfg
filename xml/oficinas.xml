@@ -1,0 +1,1550 @@
+<?xml version="1.0" encoding="UTF-8" ?><Contenidos>
+    <infoDataset>
+        <nombre>Oficinas de turismo en Madrid</nombre>
+        <id>206577-0</id>
+        <uri>https://datos.madrid.es/egob/catalogo/206577-0-oficinas-turismo</uri>
+        <descripcion> Este conjunto de datos incluye tanto puntos de información turistica municipales, referentes a la ciudad de Madrid, así como otras oficinas referentes a la Comunidad de Madrid u otras comunidades autónomas, y tambien oficinas turísticas de otros paises. 
+     </descripcion>
+    </infoDataset>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">4917035</atributo>
+            <atributo nombre="NOMBRE">Centro de Información Juvenil de la Comunidad de Madrid</atributo>
+            <atributo nombre="HORARIO"><![CDATA[De lunes a viernes de 9 a 14 horas]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[Obtención de carnés: Estudiante (ISIC), Profesor (ITIC), International Youth Travel Card (IYTC), Alberguista, Carné Joven.Información sobre cursos, becas, idiomas, campamentos, campos de voluntariado, talleres,  albergues y refugios, programas europeos de movilidad, empleo y vivienda.Asesorías de estudios y jurídica, gratuitas y sin cita previa.Información sobre Garantía Juvenil.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Colón (línea 4), Serrano (línea 4), Banco de España (línea 2)Bus: 14, 150, 27, 37, 45, 5, 53, SE78Cercanías: Recoletos (C1, C2, C7, C10)Bicimad: Estación 94 (Paseo Recoletos, 32-34)]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=145f8558aa00a110VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">RECOLETOS</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">1</atributo>
+                <atributo nombre="ORIENTACION">c/v paseo de Recoletos, 14</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28001</atributo>
+                <atributo nombre="BARRIO">RECOLETOS</atributo>
+                <atributo nombre="DISTRITO">SALAMANCA</atributo>
+                <atributo nombre="COORDENADA-X">441386</atributo>
+                <atributo nombre="COORDENADA-Y">4474863</atributo>
+                <atributo nombre="LATITUD">40.42232563847626</atributo>
+                <atributo nombre="LONGITUD">-3.6909434067579525</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">901 510 610 / 912 767 563</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">7805</atributo>
+            <atributo nombre="NOMBRE">Centro de Turismo Plaza Mayor</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[Madrid cuenta en el Salón de Columnas de la Casa de la Panadería de la céntrica Plaza Mayor con uno de los más modernos centros turísticos del país que ofrece atención especializada con una plantilla de profesionales expertos en turismo e idiomas que atiende personalmente a los visitantes y da respuesta también a todas las peticiones de información que se realizan de manera no presencial.Centro de turismo cofinanciado por el Fondo Europeo de Desarrollo Regional.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[Horario de atención al público de 9:30 a 20:30 horas, todos los días del año.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[Atención presencial  / Especial idioma chino Atención especializada  Autoconsulta  Cornertech  Taquilla de Teatros Municipales  Tienda de Madrid  Accesibilidad:  Lengua de Signos Española  Bucles magnéticos (3)  Encaminamientos podotáctiles  Apoyos isquiáticos  Plano háptico  Mostrador adaptado  Guía de Turismo Accesible (en CD)  Área tecnológica: AudiovisualesEl Centro de Turismo de Plaza Mayor está certificado en la UNE 170001-2 de Accesibilidad Universal.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Sol (líneas 1, 2, 3), Ópera (línea 2, 5, Ramal)Bus: 3, 6, 26, 32Renfe: Sol (líneas C3, C4)Bicimad: Estaciones 31  (calle Mayor, 20),  32 (plaza Provincia , 1 )]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1,4,5,6</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=b0a093e5fd61c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">MAYOR</atributo>
+                <atributo nombre="CLASE-VIAL">PLAZA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">27</atributo>
+                <atributo nombre="ORIENTACION">Casa de la Panadería</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28012</atributo>
+                <atributo nombre="BARRIO">SOL</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">439983</atributo>
+                <atributo nombre="COORDENADA-Y">4474154</atributo>
+                <atributo nombre="LATITUD">40.41583855082183</atributo>
+                <atributo nombre="LONGITUD">-3.7074257084323636</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 787 810</atributo>
+                <atributo nombre="EMAIL">turismo@esmadrid.com</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">10692696</atributo>
+            <atributo nombre="NOMBRE">City of Madrid Film Office</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[City of Madrid Film Office &ndash; Ciudad de Madrid Film Office es un servicio público del Ayuntamiento de Madrid dedicado a promocionar la ciudad como destino de rodajes y asesorar a todas las empresas y los profesionales del sector audiovisual que deseen trabajar en ella.La oficina está abierta a consultas y solicitudes de asistencia por vía telefónica o email. La atención presencial requiere solicitar cita previa.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[Horario de trabajo de la oficina: de 9 a 17 horas]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[Funciones que presta La oficina ofrece los siguientes servicios básicos a los productores que desean rodar en Madrid: 1. Ayuda en la búsqueda de localizaciones para rodajes Apoyo en la búsqueda de localizaciones que se adecúen a las necesidades de las producciones y asesoría en el terreno de la logística de producción y postproducción a desarrollar en Madrid. 2. Orientación en la gestión de permisos de rodaje Información sobre gestores, procedimientos, tarifas y buenas prácticas para la obtención de permisos de rodaje en espacios municipales, así como localizaciones institucionales y privadas.Ciudad de Madrid Film Office actúa únicamente como órgano informativo y no tiene autoridad para dar los permisos de rodaje en ningún espacio municipal o extramunicipal, actuando únicamente como una oficina de orientación en la búsqueda del titular correspondiente y de apoyo en el proceso de petición de los permisos. En el caso de los espacios municipales:Los permisos de rodaje en vía pública, parques y jardines los otorga el Negociado de Autorizaciones de Rodaje, perteneciente al Área de Gobierno de Medio Ambiente y Movilidad. Cuenta con dos tipos de permisos de rodaje, que se pueden solicitar electrónica o presencialmente en sus oficinas (C/ Albarracín, 33).Los permisos de rodaje en edificios e instalaciones municipales los otorgan los diferentes y múltiples órganos municipales de los que son competencia. Por ejemplo, los centros deportivos y culturales municipales suelen gestionarlos las Juntas Municipales de Distrito en las que se ubican, los cementerios municipales los gestiona la Empresa Municipal de Servicios Funerarios y Cementerios de Madrid, etc. 3. Asistencia en la gestión de servicios municipales Mediación entre el sector audiovisual y el amplio abanico de departamentos municipales con el que pueden necesitar contactar y colaborar (alumbrado, zonas verdes, mobiliario urbano, etc.). En este sentido, conocidos los servicios que el productor necesita, la Film Office se presta a ayudar en:La búsqueda de los posibles interlocutores municipales implicados.El estudio de la viabilidad de la petición solicitada.La coordinación entre empresa y departamento municipal.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Sol (líneas 1, 2, 3), Ópera (línea 2, 5, Ramal)Bus: 3, 5, 6, 15, 17, 18, 20, 23, 31, 32, 35, 50, 51, 52, 53, 65, 150Renfe: Sol]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=b72a196f7d003610VgnVCM2000001f4a900aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">MAYOR</atributo>
+                <atributo nombre="CLASE-VIAL">PLAZA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">27</atributo>
+                <atributo nombre="ORIENTACION">Casa de la Panadería</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28012</atributo>
+                <atributo nombre="BARRIO">SOL</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">439983</atributo>
+                <atributo nombre="COORDENADA-Y">4474154</atributo>
+                <atributo nombre="LATITUD">40.41583855082183</atributo>
+                <atributo nombre="LONGITUD">-3.7074257084323636</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">913 184 588 / 913 184 567</atributo>
+                <atributo nombre="EMAIL">info@cityofmadridfilm.com</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">7836</atributo>
+            <atributo nombre="NOMBRE">Oficina Joven Comunidad de Madrid. TIVE. Moncloa</atributo>
+            <atributo nombre="HORARIO"><![CDATA[Horario: Del 1 de octubre al 31 de marzo, de lunes a viernes, de 9 a 14 horas.Del 1 de abril al 30 de septiembre, de lunes a viernes, de 9 a 19 horas.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[Obtención de carnés: Estudiante (ISIC), Profesor (ITIC), International Youth Travel Card (IYTC), Alberguista, Carné Joven.Reservas en albergues juveniles internacionales.Información sobre cursos, becas, idiomas, campamentos, campos de voluntariado, albergues y refugios y voluntariado en Europa.Información sobre Garantía Juvenil.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Moncloa (líneas 3, 6)Bus: 1, 138, 44, 62, C2, 83, 132, 82, 16, 61, C1, 133, G, 46Bicimad:Estación 111: calle Arcipreste de Hita, 10DEstación 110: paseo Moret, 2]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=397e19d41471c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">FERNANDO EL CATOLICO</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">88</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28015</atributo>
+                <atributo nombre="BARRIO">GAZTAMBIDE</atributo>
+                <atributo nombre="DISTRITO">CHAMBERI</atributo>
+                <atributo nombre="COORDENADA-X">439119</atributo>
+                <atributo nombre="COORDENADA-Y">4476224</atributo>
+                <atributo nombre="LATITUD">40.43442331966472</atributo>
+                <atributo nombre="LONGITUD">-3.717795251173153</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 437 412</atributo>
+                <atributo nombre="EMAIL">tive.juventud@madrid.org</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">1637</atributo>
+            <atributo nombre="NOMBRE">Oficina de Turismo Xunta de Galicia</atributo>
+            <atributo nombre="HORARIO"><![CDATA[Lunes a jueves, de 9 a 14 y de 16 a 19 horas. Viernes, de 8 a 15 horas.Agosto: de lunes a viernes, de 9 a 14 horas.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Banco de España (línea 2), Estación del Arte (Atocha) (línea 1)Bus: 10, 14, 19, 27, 34, 37, 45Renfe: Atocha (C1, C2, C3, C4, C5, C7, C10)Bicimad: Estación 68: calle Espalter, 1]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=b6f40a47f441f010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">CASADO DEL ALISAL</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">8</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28014</atributo>
+                <atributo nombre="BARRIO">LOS JERONIMOS</atributo>
+                <atributo nombre="DISTRITO">RETIRO</atributo>
+                <atributo nombre="COORDENADA-X">441408</atributo>
+                <atributo nombre="COORDENADA-Y">4473920</atributo>
+                <atributo nombre="LATITUD">40.413841115871094</atributo>
+                <atributo nombre="LONGITUD">-3.6906090973201957</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 954 214</atributo>
+                <atributo nombre="FAX">915 954 268</atributo>
+                <atributo nombre="EMAIL">ot.gal.madrid@xunta.gal</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">27402</atributo>
+            <atributo nombre="NOMBRE">Oficina de Turismo de Andorra</atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Retiro (línea 2), Serrano (línea 4), Banco de España (línea 2)Bus: 1, 2, 9, 15, 19, 20, 28, 51, 52, 74, 146Cercanias: Recoletos (C1, C2, C7, C8, C10)]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=eb68444a2951c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">ALCALA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">73</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28009</atributo>
+                <atributo nombre="BARRIO">RECOLETOS</atributo>
+                <atributo nombre="DISTRITO">SALAMANCA</atributo>
+                <atributo nombre="COORDENADA-X">441686</atributo>
+                <atributo nombre="COORDENADA-Y">4474654</atributo>
+                <atributo nombre="LATITUD">40.420463942385524</atributo>
+                <atributo nombre="LONGITUD">-3.6873880759267004</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">914 317 453 / 900 834 804</atributo>
+                <atributo nombre="EMAIL">info.es@visitandorra.com</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">8132913</atributo>
+            <atributo nombre="NOMBRE">Oficina de Turismo de Austria</atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Plaza de España (líneas 3, 10), Ventura Rodríguez (línea 3), Santo Domingo (línea 2)Bus: 1, 2, 3, 25, 39, 44, 46, 74, 75, 133, 138, 148, C1, C2]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=b659eddb85d6e410VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">JUAN ÁLVAREZ MENDIZÁBAL</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">1</atributo>
+                <atributo nombre="PLANTA">6º</atributo>
+                <atributo nombre="PUERTA">9</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28008</atributo>
+                <atributo nombre="BARRIO">ARGUELLES</atributo>
+                <atributo nombre="DISTRITO">MONCLOA-ARAVACA</atributo>
+                <atributo nombre="COORDENADA-X">439449</atributo>
+                <atributo nombre="COORDENADA-Y">4475011</atributo>
+                <atributo nombre="LATITUD">40.42352919018361</atributo>
+                <atributo nombre="LONGITUD">-3.7137893492193244</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">00800 400 200 00</atributo>
+                <atributo nombre="EMAIL">informacion@austria.info</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">127469</atributo>
+            <atributo nombre="NOMBRE">Oficina de Turismo de Brasil</atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Alonso Martínez (líneas 4, 5, 10), Rubén Darío (línea 5), Colón (línea 4)Bus: 3, 5, 7, 14, 21, 27, 37, 45, 150Cercanías: Recoletos (C1, C2, C7, C8, C10)]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=b15d47048781c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">ALMAGRO</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">28</atributo>
+                <atributo nombre="PLANTA">2ª</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28010</atributo>
+                <atributo nombre="BARRIO">ALMAGRO</atributo>
+                <atributo nombre="DISTRITO">CHAMBERI</atributo>
+                <atributo nombre="COORDENADA-X">441238</atributo>
+                <atributo nombre="COORDENADA-Y">4475736</atributo>
+                <atributo nombre="LATITUD">40.43017960044132</atributo>
+                <atributo nombre="LONGITUD">-3.692768600492918</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">917 020 689</atributo>
+                <atributo nombre="EMAIL">secom.madrid@itamaraty.gov.br</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">7844</atributo>
+            <atributo nombre="NOMBRE">Oficina de Turismo de Castilla - León</atributo>
+            <atributo nombre="HORARIO"><![CDATA[Lunes a viernes de 8 a 15 horas (se recomienda llamar antes de ir)]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Retiro (línea 2), Principe de Vergara (línea 2)Bus: 1, 9, 15, 19, 51, 52, 74, 146Bicimad:Estación 102: calle Alcalá, 97Estación DOCK 97: calle Menéndez Pelayo, 1Estación 90: calle Goya, 18]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=c93c19d41471c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">ALCALÁ</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">105</atributo>
+                <atributo nombre="PLANTA">baja</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28009</atributo>
+                <atributo nombre="BARRIO">RECOLETOS</atributo>
+                <atributo nombre="DISTRITO">SALAMANCA</atributo>
+                <atributo nombre="COORDENADA-X">442074</atributo>
+                <atributo nombre="COORDENADA-Y">4474796</atributo>
+                <atributo nombre="LATITUD">40.42177018095319</atributo>
+                <atributo nombre="LONGITUD">-3.6828394778643716</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 780 324</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">7837</atributo>
+            <atributo nombre="NOMBRE">Oficina de Turismo de Cuba</atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Santiago Bernabéu (línea 10), Nuevos Ministerios (línea 6, 8, 10)Bus: 7, 14, 27, 40, 43, 51, 120, 126, 147, 150Cercanías: Nuevos Ministerios (C1, C2, C3, C4, C7, C8, C10)]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=048c19d41471c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">HABANA</atributo>
+                <atributo nombre="CLASE-VIAL">PASEO</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">50</atributo>
+                <atributo nombre="PLANTA">Bajo</atributo>
+                <atributo nombre="PUERTA">D</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28036</atributo>
+                <atributo nombre="BARRIO">EL VISO</atributo>
+                <atributo nombre="DISTRITO">CHAMARTIN</atributo>
+                <atributo nombre="COORDENADA-X">441788</atributo>
+                <atributo nombre="COORDENADA-Y">4478040</atributo>
+                <atributo nombre="LATITUD">40.4509737804771</atributo>
+                <atributo nombre="LONGITUD">-3.6864959795755223</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">914 113 097</atributo>
+                <atributo nombre="EMAIL">info@descubracuba.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">7814</atributo>
+            <atributo nombre="NOMBRE">Oficina de Turismo de Francia</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[Departamento de información: segunda planta (hay que tomar el ascensor número 2)]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Serrrano (línea 4), Colón (línea 4), Velázquez (línea 4)Bus: 1, 5, 9, 14, 19, 21, 27, 45, 51, 53, 74, 150Cercanias: Recoletos (líneas C1, C2, C7, C8, C10)]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[Otra página web: http://www.latiendadefrancia.es/]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=bbbc19d41471c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">SERRANO</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">19</atributo>
+                <atributo nombre="PLANTA">2º</atributo>
+                <atributo nombre="PUERTA">Izquierda</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28001</atributo>
+                <atributo nombre="BARRIO">RECOLETOS</atributo>
+                <atributo nombre="DISTRITO">SALAMANCA</atributo>
+                <atributo nombre="COORDENADA-X">441643</atributo>
+                <atributo nombre="COORDENADA-Y">4475261</atributo>
+                <atributo nombre="LATITUD">40.42593809069401</atributo>
+                <atributo nombre="LONGITUD">-3.687950710749652</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 489 737</atributo>
+                <atributo nombre="FAX">915 412 412</atributo>
+                <atributo nombre="EMAIL">info.es@atout-france.fr</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">8132923</atributo>
+            <atributo nombre="NOMBRE">Oficina de Turismo de Gran Bretaña</atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=fc37eddb85d6e410VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="DISTRITO">FUENCARRAL-EL PARDO</atributo>
+                <atributo nombre="COORDENADA-X">441744</atributo>
+                <atributo nombre="COORDENADA-Y">4480809</atributo>
+                <atributo nombre="LATITUD">40.47592404926307</atributo>
+                <atributo nombre="LONGITUD">-3.6872691224974417</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">917 146 496 / 497 / 498</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">6416785</atributo>
+            <atributo nombre="NOMBRE">Oficina de Turismo de Guatemala</atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Colón (línea 4), Alonso Martínez (línea 4, 5, 10), Rubén Darío (línea 5), Serrano (línea 4)Bus: 3, 5, 7, 14, 21, 27, 37, 45, 53, 150]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=df5f44e4373f6310VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">FERNANDO EL SANTO</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">27</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28010</atributo>
+                <atributo nombre="BARRIO">ALMAGRO</atributo>
+                <atributo nombre="DISTRITO">CHAMBERI</atributo>
+                <atributo nombre="COORDENADA-X">441421</atributo>
+                <atributo nombre="COORDENADA-Y">4475505</atributo>
+                <atributo nombre="LATITUD">40.42811147922819</atributo>
+                <atributo nombre="LONGITUD">-3.69060179113649</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">913 440 347 / 913 441 417</atributo>
+                <atributo nombre="EMAIL">turismo@embajadaguatemala.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">7821</atributo>
+            <atributo nombre="NOMBRE">Oficina de Turismo de Irlanda</atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Rubén Darío (línea 5), Gregorio Marañón (línea 7, 10)Bus: 7, 9, 12, 16, 19, 27, 40, 51, 61]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=f50d19d41471c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">CASTELLANA</atributo>
+                <atributo nombre="CLASE-VIAL">PASEO</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">46</atributo>
+                <atributo nombre="PLANTA">2ª</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28046</atributo>
+                <atributo nombre="BARRIO">CASTELLANA</atributo>
+                <atributo nombre="DISTRITO">SALAMANCA</atributo>
+                <atributo nombre="COORDENADA-X">441656</atributo>
+                <atributo nombre="COORDENADA-Y">4476178</atributo>
+                <atributo nombre="LATITUD">40.43419977951646</atributo>
+                <atributo nombre="LONGITUD">-3.6878816351465096</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="EMAIL">info@turismodeirlanda.com</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">39693</atributo>
+            <atributo nombre="NOMBRE">Oficina de Turismo de Irán</atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Avenida de América (líneas 4, 6, 7, 9), Gregorio Marañón (líneas 7, 10), Núñez de Balboa (líneas 5, 9)Bus: 9, 12, 16, 19, 51]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=66e6e7510551c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">MARIA DE MOLINA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">26</atributo>
+                <atributo nombre="PLANTA">1ª</atributo>
+                <atributo nombre="PUERTA">Izqda.</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28006</atributo>
+                <atributo nombre="BARRIO">CASTELLANA</atributo>
+                <atributo nombre="DISTRITO">SALAMANCA</atributo>
+                <atributo nombre="COORDENADA-X">441920</atributo>
+                <atributo nombre="COORDENADA-Y">4476551</atributo>
+                <atributo nombre="LATITUD">40.4375784193194</atributo>
+                <atributo nombre="LONGITUD">-3.6848033506224906</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 643 613</atributo>
+                <atributo nombre="EMAIL">iran@iransara.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">7822</atributo>
+            <atributo nombre="NOMBRE">Oficina de Turismo de Israel</atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=881d19d41471c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28004</atributo>
+                <atributo nombre="DISTRITO">DISTRITO</atributo>
+                <atributo nombre="COORDENADA-X">440449</atributo>
+                <atributo nombre="COORDENADA-Y">4475488</atributo>
+                <atributo nombre="LATITUD">40.42789840100491</atributo>
+                <atributo nombre="LONGITUD">-3.702046638888977</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 943 211</atributo>
+                <atributo nombre="EMAIL">info-es@goisrael.gov.il</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">7823</atributo>
+            <atributo nombre="NOMBRE">Oficina de Turismo de Italia</atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Nuevos Ministerios (líneas 6, 8, 10)Bus: 7, 14, 27, 40, 126, 147, 150, C1, C2Cercanías: Nuevos Ministerios (C1, C2, C3, C4, C7, C8)]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[Otra página web: www.italia.it]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=1b2d19d41471c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">CASTELLANA</atributo>
+                <atributo nombre="CLASE-VIAL">PASEO</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">114</atributo>
+                <atributo nombre="PLANTA">4.ª</atributo>
+                <atributo nombre="PUERTA">PUERTA 1</atributo>
+                <atributo nombre="ESCALERAS">ESCALERA 1</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28046</atributo>
+                <atributo nombre="BARRIO">EL VISO</atributo>
+                <atributo nombre="DISTRITO">CHAMARTIN</atributo>
+                <atributo nombre="COORDENADA-X">441444</atributo>
+                <atributo nombre="COORDENADA-Y">4477612</atributo>
+                <atributo nombre="LATITUD">40.44710927364525</atributo>
+                <atributo nombre="LONGITUD">-3.690508838455886</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 670 670</atributo>
+                <atributo nombre="EMAIL">madrid@enit.it</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">7834</atributo>
+            <atributo nombre="NOMBRE">Oficina de Turismo de Jordania</atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Diego de León (líneas 4, 5 y 6), Manuel Becerra (líneas 2 y 6).Bus: 12, 43, 48, 56, C1, 210, C2, 1, 74.Bicimad: Estación 192 (avenida de los Toreros, 3).]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=ad3d19d41471c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">PADILLA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">80</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28006</atributo>
+                <atributo nombre="BARRIO">LISTA</atributo>
+                <atributo nombre="DISTRITO">SALAMANCA</atributo>
+                <atributo nombre="COORDENADA-X">442924</atributo>
+                <atributo nombre="COORDENADA-Y">4475807</atributo>
+                <atributo nombre="LATITUD">40.430952158777025</atributo>
+                <atributo nombre="LONGITUD">-3.672891749718973</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">917 813 987</atributo>
+                <atributo nombre="EMAIL">spain@visitjordan.com</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">5801458</atributo>
+            <atributo nombre="NOMBRE">Oficina de Turismo de La Rioja</atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Serrano (línea 4), Colón (línea 4)Bus: 1, 9, 19, 21, 51, 53, 74Bicimad: Estación 90: calle Goya, 18Estación 87: calle Ayala, 44]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=5558bc4e9ef0b210VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">SERRANO</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">25</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28001</atributo>
+                <atributo nombre="BARRIO">RECOLETOS</atributo>
+                <atributo nombre="DISTRITO">SALAMANCA</atributo>
+                <atributo nombre="COORDENADA-X">441654</atributo>
+                <atributo nombre="COORDENADA-Y">4475334</atributo>
+                <atributo nombre="LATITUD">40.426596411628736</atributo>
+                <atributo nombre="LONGITUD">-3.687839531572201</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 764 852</atributo>
+                <atributo nombre="EMAIL">crmadrid@centroriojano.com</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">52471</atributo>
+            <atributo nombre="NOMBRE">Oficina de Turismo de Malta</atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Gregorio Marañón (líneas 7, 10), Rubén Darío (línea 5)Bus: 5, 7, 14, 16, 27, 40, 45, 61, 147, 150]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[Localizada en la Embajada de Malta]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=f8f6e7510551c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">CASTELLANA</atributo>
+                <atributo nombre="CLASE-VIAL">PASEO</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">45</atributo>
+                <atributo nombre="PLANTA">6ª</atributo>
+                <atributo nombre="PUERTA">Derecha</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28046</atributo>
+                <atributo nombre="BARRIO">ALMAGRO</atributo>
+                <atributo nombre="DISTRITO">CHAMBERI</atributo>
+                <atributo nombre="COORDENADA-X">441505</atributo>
+                <atributo nombre="COORDENADA-Y">4476346</atributo>
+                <atributo nombre="LATITUD">40.43569358766222</atributo>
+                <atributo nombre="LONGITUD">-3.689677189614338</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">913 913 061</atributo>
+                <atributo nombre="EMAIL">maltaembassy.madrid@gov.mt</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">7824</atributo>
+            <atributo nombre="NOMBRE">Oficina de Turismo de Marruecos</atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Ventura Rodríguez (línea 3), Plaza de España (línea 3)Bus: 1, 2, 3, 44, 46, 74, 75, 133, 138, 148]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=9fbd19d41471c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">VENTURA RODRIGUEZ</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">24</atributo>
+                <atributo nombre="PLANTA">1º</atributo>
+                <atributo nombre="PUERTA">Izq.</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28008</atributo>
+                <atributo nombre="BARRIO">ARGUELLES</atributo>
+                <atributo nombre="DISTRITO">MONCLOA-ARAVACA</atributo>
+                <atributo nombre="COORDENADA-X">439383</atributo>
+                <atributo nombre="COORDENADA-Y">4475087</atributo>
+                <atributo nombre="LATITUD">40.42420902572595</atributo>
+                <atributo nombre="LONGITUD">-3.714574560417809</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 412 995</atributo>
+                <atributo nombre="EMAIL">sofi@turismomarruecos.com</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">7825</atributo>
+            <atributo nombre="NOMBRE">Oficina de Turismo de México</atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Sevilla (línea 2), Sol (líneas 1, 2, 3)Bus: 5, 9, 10, 14, 27, 34, 37, 45, 51, 52, 53, 146, 150, M1Renfe: Sol (C3, C4)]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=22dd19d41471c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">SAN JERONIMO</atributo>
+                <atributo nombre="CLASE-VIAL">CARRERA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">46</atributo>
+                <atributo nombre="PLANTA">2ª</atributo>
+                <atributo nombre="PUERTA">A</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28014</atributo>
+                <atributo nombre="BARRIO">CORTES</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">440838</atributo>
+                <atributo nombre="COORDENADA-Y">4474170</atributo>
+                <atributo nombre="LATITUD">40.41605298613373</atributo>
+                <atributo nombre="LONGITUD">-3.697338423479512</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 611 827</atributo>
+                <atributo nombre="FAX">914 110 759</atributo>
+                <atributo nombre="EMAIL">spain@visitmexico.com</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">27326</atributo>
+            <atributo nombre="NOMBRE">Oficina de Turismo de Noruega</atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=7e78444a2951c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="CODIGO-POSTAL">28046</atributo>
+                <atributo nombre="BARRIO">CUATRO CAMINOS</atributo>
+                <atributo nombre="DISTRITO">TETUAN</atributo>
+                <atributo nombre="COORDENADA-X">441368</atributo>
+                <atributo nombre="COORDENADA-Y">4478126</atributo>
+                <atributo nombre="LATITUD">40.451733112852956</atributo>
+                <atributo nombre="LONGITUD">-3.6914479583933497</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">913 440 987</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">5405170</atributo>
+            <atributo nombre="NOMBRE">Oficina de Turismo de Nueva York</atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Cuatro Caminos (línea 1, 2 y 6), Guzmán el Bueno (línea 6, 7)Bus: 3, 37, 44, 64, 66, 124, 127, 128, 149, C2]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=2e68a3eee7553210VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">BRAVO MURILLO</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">101</atributo>
+                <atributo nombre="PLANTA">6ª</atributo>
+                <atributo nombre="ORIENTACION">OFICINA 3</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28010</atributo>
+                <atributo nombre="BARRIO">TRAFALGAR</atributo>
+                <atributo nombre="DISTRITO">CHAMBERI</atributo>
+                <atributo nombre="COORDENADA-X">440586</atributo>
+                <atributo nombre="COORDENADA-Y">4476238</atributo>
+                <atributo nombre="LATITUD">40.43466453809479</atributo>
+                <atributo nombre="LONGITUD">-3.700501765839506</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">914 585 573</atributo>
+                <atributo nombre="EMAIL">nuevayork@aviareps.com</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">7826</atributo>
+            <atributo nombre="NOMBRE">Oficina de Turismo de Perú</atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Lista (línea 4), Diego de León (línea 4, 5, 9), Núñez de Balboa (línea 5, 9)Bus: 1, 9, 19, 29, 51, 52, 61, 74]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=b4ed19d41471c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">MARQUES DE SALAMANCA</atributo>
+                <atributo nombre="CLASE-VIAL">PLAZA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">10</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28006</atributo>
+                <atributo nombre="BARRIO">LISTA</atributo>
+                <atributo nombre="DISTRITO">SALAMANCA</atributo>
+                <atributo nombre="COORDENADA-X">442381</atributo>
+                <atributo nombre="COORDENADA-Y">4475670</atributo>
+                <atributo nombre="LATITUD">40.429674007218026</atributo>
+                <atributo nombre="LONGITUD">-3.6792883340980196</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">911 937 511</atributo>
+                <atributo nombre="EMAIL">info@oficinacomercialperu.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">7835</atributo>
+            <atributo nombre="NOMBRE">Oficina de Turismo de Polonia</atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Plaza de España (líneas 3, 10), Ventura Rodríguez (línea 3), Noviciado (línea 2)Bus: 1, 2, 3, 44, 46, 74, 75, 133, 138, C2]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=47fd19d41471c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">PRINCESA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">3</atributo>
+                <atributo nombre="ESCALERAS">local 1310</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28008</atributo>
+                <atributo nombre="BARRIO">ARGUELLES</atributo>
+                <atributo nombre="DISTRITO">MONCLOA-ARAVACA</atributo>
+                <atributo nombre="COORDENADA-X">439529</atributo>
+                <atributo nombre="COORDENADA-Y">4475145</atributo>
+                <atributo nombre="LATITUD">40.42474213964734</atributo>
+                <atributo nombre="LONGITUD">-3.7128591034859424</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 414 808 / 333</atributo>
+                <atributo nombre="EMAIL">info.es@polonia.travel</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">5405234</atributo>
+            <atributo nombre="NOMBRE">Oficina de Turismo de Portugal</atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Núñez de Balboa (líneas 5, 9), Serrano (línea 4), Velázquez (línea 4)Bus: 1, 5, 9, 14, 19, 27, 45, 51, 74, 150]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=f3ad9a4aca553210VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">LAGASCA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">88</atributo>
+                <atributo nombre="PLANTA">4ª</atributo>
+                <atributo nombre="PUERTA">B</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28001</atributo>
+                <atributo nombre="BARRIO">CASTELLANA</atributo>
+                <atributo nombre="DISTRITO">SALAMANCA</atributo>
+                <atributo nombre="COORDENADA-X">441918</atributo>
+                <atributo nombre="COORDENADA-Y">4475700</atributo>
+                <atributo nombre="LATITUD">40.42991206232817</atributo>
+                <atributo nombre="LONGITUD">-3.6847491581278606</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">917 617 230</atributo>
+                <atributo nombre="EMAIL">info.espanha@turismodeportugal.pt</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">7828</atributo>
+            <atributo nombre="NOMBRE">Oficina de Turismo de Puerto Rico</atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=d90e19d41471c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28001</atributo>
+                <atributo nombre="BARRIO">RECOLETOS</atributo>
+                <atributo nombre="DISTRITO">SALAMANCA</atributo>
+                <atributo nombre="COORDENADA-X">441739</atributo>
+                <atributo nombre="COORDENADA-Y">4474943</atributo>
+                <atributo nombre="LATITUD">40.42308011875367</atributo>
+                <atributo nombre="LONGITUD">-3.686789938909185</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="EMAIL">info@discoverpuertorico.com</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">181856</atributo>
+            <atributo nombre="NOMBRE">Oficina de Turismo de República Checa</atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Pío XII (línea 9), Duque de Pastrana (línea 9)Bus: 16, 29, 70, 107, 150]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=c9980e4e6d41c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">PIO XII</atributo>
+                <atributo nombre="CLASE-VIAL">AVENIDA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">22</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28016</atributo>
+                <atributo nombre="BARRIO">NUEVA ESPAÑA</atributo>
+                <atributo nombre="DISTRITO">CHAMARTIN</atributo>
+                <atributo nombre="COORDENADA-X">442783</atributo>
+                <atributo nombre="COORDENADA-Y">4479722</atributo>
+                <atributo nombre="LATITUD">40.466195029254166</atributo>
+                <atributo nombre="LONGITUD">-3.674926102930997</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">913 592 527</atributo>
+                <atributo nombre="EMAIL">madrid@czechtourism.com</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">7829</atributo>
+            <atributo nombre="NOMBRE">Oficina de Turismo de República Dominicana</atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Banco España (línea 2)Bus: 1, 2, 5, 9, 14, 15, 20, 27, 34, 37, 45, 51, 52, 74, 146, 150Renfe: Recoletos]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=6c1e19d41471c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">ALCALÁ</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">59</atributo>
+                <atributo nombre="PLANTA">4º</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28014</atributo>
+                <atributo nombre="BARRIO">CASTELLANA</atributo>
+                <atributo nombre="DISTRITO">SALAMANCA</atributo>
+                <atributo nombre="COORDENADA-X">441794</atributo>
+                <atributo nombre="COORDENADA-Y">4476348</atributo>
+                <atributo nombre="LATITUD">40.43574088970734</atributo>
+                <atributo nombre="LONGITUD">-3.686270282394151</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">914 177 375</atributo>
+                <atributo nombre="EMAIL">espana@godominicanrepublic.com</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">63189</atributo>
+            <atributo nombre="NOMBRE">Oficina de Turismo de Seychelles</atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Arg&uuml;elles (líneas 3, 4, 6), Ventura Rodríguez (línea 3)Bus: 1, 21, 44, 82, 132, 133, 138, C2, M2]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=1e17e7510551c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">PRINCESA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">40</atributo>
+                <atributo nombre="ORIENTACION">HOTEL HUSA PRINCESA</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28008</atributo>
+                <atributo nombre="BARRIO">UNIVERSIDAD</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">439330</atributo>
+                <atributo nombre="COORDENADA-Y">4475679</atributo>
+                <atributo nombre="LATITUD">40.429538155017795</atributo>
+                <atributo nombre="LONGITUD">-3.715255790482151</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">917 020 804</atributo>
+                <atributo nombre="FAX">917 022 374</atributo>
+                <atributo nombre="EMAIL">info@turismoseychelles.com</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">5359801</atributo>
+            <atributo nombre="NOMBRE">Oficina de Turismo de Tahití</atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Serrano (línea 4), Colón (línea 4), Velázquez (línea 4)Bus: 1, 5, 9, 14, 19, 21, 27, 45, 51, 53, 74, 150Cercanías: Recoletos (C1, C2, C7, C8, C10)]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=90192b0194de1210VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">SERRANO</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">19</atributo>
+                <atributo nombre="PLANTA">2º</atributo>
+                <atributo nombre="PUERTA">IZQUIERDA</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28001</atributo>
+                <atributo nombre="BARRIO">RECOLETOS</atributo>
+                <atributo nombre="DISTRITO">SALAMANCA</atributo>
+                <atributo nombre="COORDENADA-X">441643</atributo>
+                <atributo nombre="COORDENADA-Y">4475261</atributo>
+                <atributo nombre="LATITUD">40.42593809069401</atributo>
+                <atributo nombre="LONGITUD">-3.687950710749652</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 489 737</atributo>
+                <atributo nombre="EMAIL">info@tahititourisme.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">7832</atributo>
+            <atributo nombre="NOMBRE">Oficina de Turismo de Turquia</atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Retiro (línea 2), Banco de España (línea 2), Estación del Arte (Atocha) (línea 1)Bus: 1, 2, 9, 10, 14, 19, 20, 27, 34, 37, 45, 51, 52, 74, 146Renfe: Atocha (C1, C2, C3, C4, C5, C7, C10)]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=a66e19d41471c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">ANTONIO MAURA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">18</atributo>
+                <atributo nombre="PLANTA">2º</atributo>
+                <atributo nombre="PUERTA">D</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28014</atributo>
+                <atributo nombre="BARRIO">LOS JERONIMOS</atributo>
+                <atributo nombre="DISTRITO">RETIRO</atributo>
+                <atributo nombre="COORDENADA-X">441480</atributo>
+                <atributo nombre="COORDENADA-Y">4474203</atributo>
+                <atributo nombre="LATITUD">40.416395587157496</atributo>
+                <atributo nombre="LONGITUD">-3.6897865586854928</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 597 014 / 114</atributo>
+                <atributo nombre="EMAIL">info@turismodeturquia.com</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">7841</atributo>
+            <atributo nombre="NOMBRE">Oficina de Turismo de Túnez</atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: San Bernardo (líneas 2, 4), Arg&uuml;elles (3, 4, 6), Quevedo (línea 2), Bilbao (línea 1, 4), Ventura Rodríguez (línea 3)Bus: 3, 21, 147, M2]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=145e19d41471c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">ALBERTO AGUILERA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">11</atributo>
+                <atributo nombre="PLANTA">1º</atributo>
+                <atributo nombre="PUERTA">C</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28015</atributo>
+                <atributo nombre="BARRIO">UNIVERSIDAD</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">439885</atributo>
+                <atributo nombre="COORDENADA-Y">4475690</atributo>
+                <atributo nombre="LATITUD">40.42967754133076</atributo>
+                <atributo nombre="LONGITUD">-3.7087142557455817</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 481 435</atributo>
+                <atributo nombre="EMAIL">administracion@turismodetunez.com</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">5405423</atributo>
+            <atributo nombre="NOMBRE">Oficina de Turismo de Venezuela</atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Santiago Bernabeu (línea 10), Cuzco (línea 10), Nuevos Ministerios (línea 6, 8, 10)Bus: 3, 5, 14, 27, 40, 43, 120, 126, 147, 149, 150Cercanías: Nuevos Ministerios (C1, C2, C3, C4, C7, C8, C10)]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[Localizada en la Embajada de Venezuela]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=2457116bb1653210VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">POETA JOAN MARAGALL</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">1</atributo>
+                <atributo nombre="PLANTA">13</atributo>
+                <atributo nombre="ORIENTACION">EDIFICIO EUROCENTRO</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28020</atributo>
+                <atributo nombre="BARRIO">CUATRO CAMINOS</atributo>
+                <atributo nombre="DISTRITO">TETUAN</atributo>
+                <atributo nombre="COORDENADA-X">441251</atributo>
+                <atributo nombre="COORDENADA-Y">4478298</atributo>
+                <atributo nombre="LATITUD">40.453269184872156</atributo>
+                <atributo nombre="LONGITUD">-3.6928523641457414</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 981 200</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">190857</atributo>
+            <atributo nombre="NOMBRE">Oficina de Turismo de la Comunidad de Madrid. Aeropuerto Adolfo Suárez Madrid Barajas (T4) - (T1)</atributo>
+            <atributo nombre="HORARIO"><![CDATA[De lunes a domingo incluidos festivos, de 9 a 20 horas.Cerrada los días 1 de enero, 1 de mayo y 25 de diciembre]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Línea 8 - estación Aeropuerto T-4 Bus: Línea 201 Barajas - Aeropuerto T4]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=28aa8f79e9c70110VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">HISPANIDAD</atributo>
+                <atributo nombre="CLASE-VIAL">AVENIDA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">2</atributo>
+                <atributo nombre="ORIENTACION">Llegadas internacionales T4 - Sala 11 y T1</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28042</atributo>
+                <atributo nombre="BARRIO">AEROPUERTO</atributo>
+                <atributo nombre="DISTRITO">BARAJAS</atributo>
+                <atributo nombre="COORDENADA-X">450312</atributo>
+                <atributo nombre="COORDENADA-Y">4478080</atributo>
+                <atributo nombre="LATITUD">40.45188738242834</atributo>
+                <atributo nombre="LONGITUD">-3.5859807207200376</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">913 338 247 / 902 100 007</atributo>
+                <atributo nombre="FAX">913 338 274</atributo>
+                <atributo nombre="EMAIL">turismo@madrid.org</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">6192812</atributo>
+            <atributo nombre="NOMBRE">Oficina de Turismo de la Comunidad de Madrid. Calle Alcalá 31</atributo>
+            <atributo nombre="HORARIO"><![CDATA[De lunes a sábado, de 9 a 20 horas. Domingos y festivos, de 9 a 14 horas.Cerrada los días 1 de enero, 1 de mayo y 25 de diciembre]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Sevilla (línea 2), Banco de España ( línea 2) Bus: 51, 53, 46, 9, M2, 1, 146, 2, 74,  Bicimad: Estación 28  (calle Alcalá, 27)]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=9a0b992ad93d2310VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">ALCALA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">31</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28014</atributo>
+                <atributo nombre="BARRIO">CORTES</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">440760</atributo>
+                <atributo nombre="COORDENADA-Y">4474435</atributo>
+                <atributo nombre="LATITUD">40.41842560545147</atributo>
+                <atributo nombre="LONGITUD">-3.6982941133384717</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">902 100 007 / 912 767 187</atributo>
+                <atributo nombre="FAX">912 767 186</atributo>
+                <atributo nombre="EMAIL">turismo@madrid.org</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">68611</atributo>
+            <atributo nombre="NOMBRE">Oficina de Turismo de la Comunidad de Madrid. Estación de Atocha</atributo>
+            <atributo nombre="HORARIO"><![CDATA[De lunes a sábados de 8 a 20 horas. Domingos y festivos de 9 a 20 horas.Cerrado 1 enero, 1 mayo y 25 diciembre.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Estación del Arte (Atocha) (línea 1)Bus: 59, 6, 85, E1, 102, 86, 27, 34, C1, 19, 45, 119, 36, 41, C2, 247, 47, 55, SE78Renfe: Atocha (C1, C2, C3, C4, C5, C7, C10)Bicimad: Estación 50 (calle Santa Isabel, 57)Estación 51 (Ronda Atocha, 2)]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=3f1f96e2cf41c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">EMPERADOR CARLOS V</atributo>
+                <atributo nombre="CLASE-VIAL">PLAZA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">3</atributo>
+                <atributo nombre="ORIENTACION">VESTÍBULO DEL AVE</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28045</atributo>
+                <atributo nombre="BARRIO">ATOCHA</atributo>
+                <atributo nombre="DISTRITO">ARGANZUELA</atributo>
+                <atributo nombre="COORDENADA-X">441257</atributo>
+                <atributo nombre="COORDENADA-Y">4473263</atributo>
+                <atributo nombre="LATITUD">40.4079119564538</atributo>
+                <atributo nombre="LONGITUD">-3.6923163004968975</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">902 100 007 / 915 284 630</atributo>
+                <atributo nombre="FAX">915 307 955</atributo>
+                <atributo nombre="EMAIL">turismo@madrid.org</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">10127255</atributo>
+            <atributo nombre="NOMBRE">Oficina de Turismo de la Junta de Andalucía en Madrid</atributo>
+            <atributo nombre="HORARIO"><![CDATA[De lunes a miércoles, de 9 a 17 horas. Jueves y viernes, de 8 a 14 horas.Junio a septiembre, de lunes a viernes, de 9 a 14:30 horas.De 22 diciembre a 6 enero, semana santa y semana San Isidro, laborables de 9 a 14 horas.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Goya (líneas 2, 4), Príncipe de Vergara (líneas 2, 9) Bus: 26, 29, 30, 43, 61, 63, 215, E4, C2  BICIMAD 98: Avenida Felipe II, 5]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=d0abc974d4ae6510VgnVCM1000001d4a900aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">FELIPE II</atributo>
+                <atributo nombre="CLASE-VIAL">AVENIDA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">15</atributo>
+                <atributo nombre="PLANTA">Iª</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28009</atributo>
+                <atributo nombre="BARRIO">GOYA</atributo>
+                <atributo nombre="DISTRITO">SALAMANCA</atributo>
+                <atributo nombre="COORDENADA-X">442841</atributo>
+                <atributo nombre="COORDENADA-Y">4475057</atributo>
+                <atributo nombre="LATITUD">40.424183525039</atributo>
+                <atributo nombre="LONGITUD">-3.673810495427334</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">912 031 200</atributo>
+                <atributo nombre="EMAIL">otmadrid@andalucia.org</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">11051271</atributo>
+            <atributo nombre="NOMBRE">Oficina de promoción turística de Castilla - La Mancha en Madrid</atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Callao (líneas 1 y 3)Bus: 146, 148, 147, 1, 2, 46, 74, 75, 44, 133BICIMAD:Estación 2 (calle Miguel Moya, 1)Estación 22 (calle Jacometrezzo, 3)Estación 23 (Plaza Santo Domingo, 1)]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=f7750a11f811e610VgnVCM2000001f4a900aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">GRAN VIA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">45</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28013</atributo>
+                <atributo nombre="BARRIO">PALACIO</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">439997</atributo>
+                <atributo nombre="COORDENADA-Y">4474714</atributo>
+                <atributo nombre="LATITUD">40.42090127868798</atributo>
+                <atributo nombre="LONGITUD">-3.707295329224958</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">680 221 008</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">5631196</atributo>
+            <atributo nombre="NOMBRE">Punto de Información Turística Aeropuerto Adolfo Suárez Madrid -  Barajas Terminal 2 (Entre salas 5 y 6)</atributo>
+            <atributo nombre="HORARIO"><![CDATA[Abierto durante todo el año ofrece todo lo que el visitante necesita para disfrutar de su estancia.Horario de atención al público de 9:30 a 20:30 horas, todos los días del año.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[Atención presencialAutoconsultaAudiovisuales Todos los quioscos de información turística tienen un mostrador accesible y están equipados de bucles magnéticos para atención a personas con discapacidad auditiva.También disponen de un Mapa Accesible de Madrid en braille y con un QR descargable en los dispositivos móviles para personas con discapacidad visual con toda la información turística. Además existe un procedimiento de atención a personas con discapacidad, por el cual los informadores tienen un protocolo para atender a personas con cualquier clase de discapacidad y para las personas usuarias de sillas de ruedas.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Aeropuerto T2 (línea 8)Bus: 200 y autobús Express aeropuerto]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=88dfad2e06ea7210VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">HISPANIDAD</atributo>
+                <atributo nombre="CLASE-VIAL">AVENIDA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">0</atributo>
+                <atributo nombre="ORIENTACION">Aeropuerto de Barajas. Salas 5 y 6</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28042</atributo>
+                <atributo nombre="BARRIO">AEROPUERTO</atributo>
+                <atributo nombre="DISTRITO">BARAJAS</atributo>
+                <atributo nombre="COORDENADA-X">450312</atributo>
+                <atributo nombre="COORDENADA-Y">4478080</atributo>
+                <atributo nombre="LATITUD">40.45188738242834</atributo>
+                <atributo nombre="LONGITUD">-3.5859807207200376</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 787 810</atributo>
+                <atributo nombre="EMAIL">turismo@esmadrid.com</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">178759</atributo>
+            <atributo nombre="NOMBRE">Punto de Información Turística Aeropuerto Adolfo Suárez Madrid - Barajas Terminal 4 (Sala 10)</atributo>
+            <atributo nombre="HORARIO"><![CDATA[Abierto durante todo el año ofrece todo lo que el visitante necesita para disfrutar de su estancia.Horario de atención al público de 9:30 a 20:30 horas, todos los días del año.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[Atención presencialAutoconsultaAudiovisualesAcceso adaptado Todos los quioscos de información turística tienen un mostrador accesible y están equipados de bucles magnéticos para atención a personas con discapacidad auditiva.También disponen de un Mapa Accesible de Madrid en braille y con un QR descargable en los dispositivos móviles para personas con discapacidad visual con toda la información turística. Además existe un procedimiento de atención a personas con discapacidad, por el cual los informadores tienen un protocolo para atender a personas con cualquier clase de discapacidad y para las personas usuarias de sillas de ruedas.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Aeropuerto T 4 (línea 8)Bus: 200 y Exprés AeropuertoRenfe: Aeropuerto T 4]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=8f871c7a2c61c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">HISPANIDAD</atributo>
+                <atributo nombre="CLASE-VIAL">AVENIDA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">0</atributo>
+                <atributo nombre="ORIENTACION">Aeropuerto de Barajas. Salas 10</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28042</atributo>
+                <atributo nombre="BARRIO">AEROPUERTO</atributo>
+                <atributo nombre="DISTRITO">BARAJAS</atributo>
+                <atributo nombre="COORDENADA-X">450312</atributo>
+                <atributo nombre="COORDENADA-Y">4478080</atributo>
+                <atributo nombre="LATITUD">40.45188738242834</atributo>
+                <atributo nombre="LONGITUD">-3.5859807207200376</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 787 810</atributo>
+                <atributo nombre="EMAIL">turismo@esmadrid.com</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">11050930</atributo>
+            <atributo nombre="NOMBRE">Punto de Información Turística Palacio Real</atributo>
+            <atributo nombre="HORARIO"><![CDATA[Abierto durante todo el año ofrece todo lo que el visitante necesita para disfrutar de su estancia.Horario de atención al público de 9:30 a 20:30 horas, todos los días del año.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[Este servicio de  información turística tiene un mostrador accesible.También disponen de un Mapa Accesible de Madrid en braille y con un QR descargable en los dispositivos móviles para personas con discapacidad visual con toda la información turística. Además existe un procedimiento de atención a personas con discapacidad, por el cual los informadores tienen un protocolo para atender a personas con cualquier clase de discapacidad y para las personas usuarias de sillas de ruedas.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Ópera (líneas 2, 5, R)Bus: 3, 25, 39, 46, 75, 138, 148, C1Bicimad: Estación 36 (Plaza de Ramales, 1)]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=81d3b801a201e610VgnVCM2000001f4a900aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">BAILEN</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">0</atributo>
+                <atributo nombre="ORIENTACION">semiesquina calle Requena, frente Palacio Real</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28013</atributo>
+                <atributo nombre="BARRIO">PALACIO</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">439580</atributo>
+                <atributo nombre="COORDENADA-Y">4474285</atributo>
+                <atributo nombre="LATITUD">40.41700064452497</atributo>
+                <atributo nombre="LONGITUD">-3.7121662397143345</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 787 810</atributo>
+                <atributo nombre="EMAIL">turismo@esmadrid.com</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">10085167</atributo>
+            <atributo nombre="NOMBRE">Punto de Información Turística Reina Sofía</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[Punto de Información Turística cofinanciado por el Fondo Europeo de Desarrollo Regional.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[Abierto durante todo el año ofrece todo lo que el visitante necesita para disfrutar de su estancia.Horario de atención al público de 9:30 a 20:30 horas, todos los días del año.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[Atención PresencialAudiovisualesWIFI GratuitaBucle magnético Todos los quioscos de información turística tienen un mostrador accesible y están equipados de bucles magnéticos para atención a personas con discapacidad auditiva.También disponen de un Mapa Accesible de Madrid en braille y con un QR descargable en los dispositivos móviles para personas con discapacidad visual con toda la información turística. Además existe un procedimiento de atención a personas con discapacidad, por el cual los informadores tienen un protocolo para atender a personas con cualquier clase de discapacidad y para las personas usuarias de sillas de ruedas.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Estación del Arte (Atocha) (línea 1)Bus: 351, 352, 353Renfe: Largo recorrido, AVE y cercaníasBICIMAD:Estación 50 (calle Santa Isabel, 57)Estación 51 (Ronda de Atocha, 2)]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=8321a9a7e3525510VgnVCM2000001f4a900aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">SANTA ISABEL</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">52</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28012</atributo>
+                <atributo nombre="BARRIO">EMBAJADORES</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">441118</atributo>
+                <atributo nombre="COORDENADA-Y">4473345</atributo>
+                <atributo nombre="LATITUD">40.40864029339671</atributo>
+                <atributo nombre="LONGITUD">-3.6939504103293244</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 787 810</atributo>
+                <atributo nombre="EMAIL">turismo@esmadrid.com</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">7050847</atributo>
+            <atributo nombre="NOMBRE">Punto de Información Turística. CentroCentro</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[El espacio de exposiciones CentroCentro, en el Palacio de Cibeles (actual sede del Ayuntamiento de Madrid y antiguo Palacio de Correos) alberga un punto de información turística especializado en información artística y cultural, en pleno Paseo del Arte.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[De martes a domingo de 10 a 20 horas.Cerrado: todos los lunes, 1 y 6 de enero, 1 de mayo y 24, 25 y 31 de diciembre. 5 de enero de 10 a 14 horas. Las salas se desalojarán 15 minutos antes del cierre del centro.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[Atención presencialAutoconsultaAudiovisualesAcceso adaptado Todos los quioscos de información turística tienen un mostrador accesible y están equipados de bucles magnéticos para atención a personas con discapacidad auditiva.También disponen de un Mapa Accesible de Madrid en braille y con un QR descargable en los dispositivos móviles para personas con discapacidad visual con toda la información turística. Además existe un procedimiento de atención a personas con discapacidad, por el cual los informadores tienen un protocolo para atender a personas con cualquier clase de discapacidad y para las personas usuarias de sillas de ruedas.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Banco de España (línea 2)Bus: 1, 2, 5, 9, 10, 15, 20, 27, 34, 37, 45, 51, 52, 53, 74, 146, 150, 202Renfe: RecoletosBICIMAD: Estación 86 (Paseo del Prado, 1)]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[Descripción monumental  Arquitecto: Jacques Marquet (1760 - 1768) Construido para sede central del Correo. Su estilo es del barroco más clásico. Destaca la combinación de materiales, del ladrillo y la piedra con el hierro labrado del balcón y los detalles escultóricos de Antonio Primo. La torrecilla del reloj data del siglo XIX, y fue regalo del relojero Losada.]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=81c63eebd56ff310VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">CIBELES</atributo>
+                <atributo nombre="CLASE-VIAL">PLAZA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">1</atributo>
+                <atributo nombre="ORIENTACION">Palacio de Cibeles</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28014</atributo>
+                <atributo nombre="BARRIO">LOS JERONIMOS</atributo>
+                <atributo nombre="DISTRITO">RETIRO</atributo>
+                <atributo nombre="COORDENADA-X">441277</atributo>
+                <atributo nombre="COORDENADA-Y">4474496</atributo>
+                <atributo nombre="LATITUD">40.419011767401095</atributo>
+                <atributo nombre="LONGITUD">-3.692206111679657</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 787 810</atributo>
+                <atributo nombre="EMAIL">turismo@esmadrid.com</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">10085202</atributo>
+            <atributo nombre="NOMBRE">Punto de Información Turística. Estadio Santiago Bernabéu</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[Punto de Información Turística cofinanciado por el Fondo Europeo de Desarrollo Regional.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[Abierto durante todo el año ofrece todo lo que el visitante necesita para disfrutar de su estancia.Horario de atención al público: de 9:30 a 20:30 horas, todos los días del año.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[Atención PresencialAudiovisualesWIFI GratuitaBucle magnético Todos los quioscos de información turística tienen un mostrador accesible y están equipados de bucles magnéticos para atención a personas con discapacidad auditiva.También disponen de un Mapa Accesible de Madrid en braille y con un QR descargable en los dispositivos móviles para personas con discapacidad visual con toda la información turística. Además existe un procedimiento de atención a personas con discapacidad, por el cual los informadores tienen un protocolo para atender a personas con cualquier clase de discapacidad y para las personas usuarias de sillas de ruedas.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Santiago Bernabeu (línea 10)Bus: 27, 40, 126, 147 y 150]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=2da4a9a7e3525510VgnVCM2000001f4a900aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">CASTELLANA</atributo>
+                <atributo nombre="CLASE-VIAL">PASEO</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">138</atributo>
+                <atributo nombre="ORIENTACION">junto al Estadio Santiago Bernabéu</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28046</atributo>
+                <atributo nombre="BARRIO">EL VISO</atributo>
+                <atributo nombre="DISTRITO">CHAMARTIN</atributo>
+                <atributo nombre="COORDENADA-X">441484</atributo>
+                <atributo nombre="COORDENADA-Y">4478096</atributo>
+                <atributo nombre="LATITUD">40.451465916355055</atributo>
+                <atributo nombre="LONGITUD">-3.69008606793658</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 787 810</atributo>
+                <atributo nombre="EMAIL">turismo@esmadrid.com</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">10085398</atributo>
+            <atributo nombre="NOMBRE">Punto de Información Turística. Paseo del Prado</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[Punto de Información Turística cofinanciado por el Fondo Europeo de Desarrollo Regional.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[Abierto durante todo el año ofrece todo lo que el visitante necesita para disfrutar de su estancia.Horario de atención al público de 9:30 a 20:30 horas, todos los días del año.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[Atención presencial  Audiovisuales WIFI GratuitaBucle magnéticoPunto de venta del Madrid City Tour (Solo pago con tarjeta de crédito)Todos los quioscos de información turística tienen un mostrador accesible y están equipados de bucles magnéticos para atención a personas con discapacidad auditiva.También disponen de un Mapa Accesible de Madrid en braille y con un QR descargable en los dispositivos móviles para personas con discapacidad visual con toda la información turística. Además existe un procedimiento de atención a personas con discapacidad, por el cual los informadores tienen un protocolo para atender a personas con cualquier clase de discapacidad y para las personas usuarias de sillas de ruedas.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Banco de España (línea 2)Bus: 10, 14, 27, 34, 37, 45, N9, N10, N11, N12, N13, N14, N15, N17 y N25]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=1f6bdae9bb525510VgnVCM2000001f4a900aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">NEPTUNO</atributo>
+                <atributo nombre="CLASE-VIAL">PLAZA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">1</atributo>
+                <atributo nombre="ORIENTACION">FRENTE AL MUSEO DEL PRADO</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28014</atributo>
+                <atributo nombre="BARRIO">LOS JERONIMOS</atributo>
+                <atributo nombre="DISTRITO">RETIRO</atributo>
+                <atributo nombre="COORDENADA-X">441276</atributo>
+                <atributo nombre="COORDENADA-Y">4474259</atributo>
+                <atributo nombre="LATITUD">40.41688576337496</atributo>
+                <atributo nombre="LONGITUD">-3.692184322678944</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 787 810</atributo>
+                <atributo nombre="EMAIL">turismo@esmadrid.com</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">171082</atributo>
+            <atributo nombre="NOMBRE">Punto de Información Turística. Plaza de Callao</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[Punto de Información Turística cofinanciado por el Fondo Europeo de Desarrollo Regional.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[Abierto durante todo el año ofrece todo lo que el visitante necesita para disfrutar de su estancia.Horario de atención al público de 9:30 a 20:30 horas, todos los días del año.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[Atención PresencialAudiovisualesWIFI GratuitaBucle magnético Punto de venta del Madrid City Tour (solo pago con tarjeta de crédito)Todos los quioscos de información turística tienen un mostrador accesible y están equipados de bucles magnéticos para atención a personas con discapacidad auditiva.También disponen de un Mapa Accesible de Madrid en braille y con un QR descargable en los dispositivos móviles para personas con discapacidad visual con toda la información turística. Además existe un procedimiento de atención a personas con discapacidad, por el cual los informadores tienen un protocolo para atender a personas con cualquier clase de discapacidad y para las personas usuarias de sillas de ruedas.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Callao (líneas 1, 3, 5)Bus: 1, 2, 44, 46, 74, 75, 146, 147, 148, 133 y 202]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=acf029ea9281c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">CALLAO</atributo>
+                <atributo nombre="CLASE-VIAL">PLAZA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">1</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28013</atributo>
+                <atributo nombre="BARRIO">SOL</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">440096</atributo>
+                <atributo nombre="COORDENADA-Y">4474587</atributo>
+                <atributo nombre="LATITUD">40.41974735763767</atributo>
+                <atributo nombre="LONGITUD">-3.7061346665078845</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 787 810</atributo>
+                <atributo nombre="EMAIL">turismo@esmadrid.com</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">4629537</atributo>
+            <atributo nombre="NOMBRE">Servicio de Atención al Turista Extranjero (SATE). Comisaría de Centro</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[El servicio de Atención al Turista Extranjero -SATE- es un servicio especializado gestionado por la Empresa Municipal Madrid Destino en colaboración con funcionarios del Cuerpo Nacional de Policía. Tiene por finalidad atender al turista que, durante su estancia en Madrid, haya vivido una situación excepcional y requiera de apoyo policial. Entre las funciones del servicio destaca el apoyo en trámites policiales, la localización de familiares, la cancelación de tarjetas de crédito, el contacto con embajadas y consulados, información turística y otros.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[Horario de atención al público de 9 a 00:00 horas, todos los días del año.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[El servicio de Atención al Turista Extranjero -SATE- es un servicio especializado gestionado por la Empresa Municipal MADRID DESTINO en colaboración con funcionarios del Cuerpo Nacional de Policía. Tiene por finalidad atender al turista extranjero que, durante su estancia en Madrid, haya vivido una situación excepcional y requiera de apoyo policial.Entre las funciones del servicio destaca el apoyo en trámites policiales, la localización de familiares, la cancelación de tarjetas de crédito, el contacto con embajadas y consulados, información turística y otros.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: plaza de España (líneas 3, 10), Santo Domingo (línea 2), Callao (líneas 3, 5)Bus: 3, 46, 75,148, 1, 2, 44, 74, 133]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=d37386bde6594110VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">LEGANITOS</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">19</atributo>
+                <atributo nombre="ORIENTACION">Comisaría</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28013</atributo>
+                <atributo nombre="BARRIO">PALACIO</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">439754</atributo>
+                <atributo nombre="COORDENADA-Y">4474792</atributo>
+                <atributo nombre="LATITUD">40.421578408057876</atributo>
+                <atributo nombre="LONGITUD">-3.7101852392954386</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 787 810</atributo>
+                <atributo nombre="EMAIL">satemadrid@esmadrid.com</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/OficinasTurismo</atributo>
+        </atributos>
+    </contenido>
+</Contenidos>
